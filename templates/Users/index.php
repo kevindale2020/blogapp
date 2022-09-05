@@ -14,7 +14,7 @@
       
         <!-- Modal Header -->
         <div class="modal-header">
-          <h4 class="modal-title">Add Post Here</h4>
+          <h4 class="modal-title">Add Post</h4>
           <button type="button" class="close" data-dismiss="modal">&times;</button>
         </div>
         
